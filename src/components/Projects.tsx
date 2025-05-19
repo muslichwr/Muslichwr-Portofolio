@@ -6,8 +6,8 @@ const Projects: React.FC = () => {
     {
       title: 'HR-MANAGE',
       description: 'Sistem manajemen HR (Human Resource) yang dibangun dengan Laravel dan Filament.',
-      image: '/src/images/hr-manage.png',
-      tags: ['Laravel', 'PHP', 'Filament', 'Blade'],
+      image: '/images/hr-manage.png',
+      tags: ['Laravel', 'PHP', 'Filament'],
       link: 'https://github.com/muslichwr/HR-MANAGE',
       features: [
         'Dashboard admin dengan Filament',
@@ -21,7 +21,7 @@ const Projects: React.FC = () => {
     {
       title: 'AkuBakul',
       description: 'Aplikasi toko online mobile yang dibangun dengan Flutter dan API lokal.',
-      image: '/src/images/akubakul.png',
+      image: '/images/akubakul.png',
       tags: ['Flutter', 'Dart', 'Laravel', 'REST API'],
       link: 'https://github.com/muslichwr/AkuBakul-Flutter',
       features: [
@@ -37,7 +37,7 @@ const Projects: React.FC = () => {
     {
       title: 'Sinawang',
       description: 'Plugin untuk memantau kompetensi siswa dalam rencana pembelajaran.',
-      image: '/src/images/pjbl_sinawang.png',
+      image: '/images/pjbl_sinawang.png',
       tags: ['PHP', 'JavaScript', 'CSS', 'Moodle'],
       link: 'https://github.com/muslichwr/sinawang',
       features : [
@@ -50,7 +50,7 @@ const Projects: React.FC = () => {
     {
       title: 'BagusNovel',
       description: 'Template Front End untuk platform membaca novel online dengan berbagai genre dan fitur.',
-      image: '/src/images/bagusnovel.png',
+      image: '/images/bagusnovel.png',
       tags: ['PHP', 'JavaScript', 'CSS'],
       link: 'https://github.com/muslichwr/BagusNovel',
       features: [

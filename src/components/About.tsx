@@ -10,7 +10,7 @@ const About: React.FC = () => {
             <div className="w-64 h-64 md:w-80 md:h-80 rounded-lg bg-gray-700 relative overflow-hidden">
               {/* Profile picture placeholder */}
               <div className="absolute inset-50 flex justify-center items-center bg-gray-700">
-                <img src="/src/images/muslich.jpg" alt="Profile" className="w-full h-full object-cover" />
+                <img src="/images/muslich.jpg" alt="Profile" className="w-full h-full object-cover" />
               </div>
               
               {/* Decorative elements */}
